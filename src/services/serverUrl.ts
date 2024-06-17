@@ -1,0 +1,1 @@
+export const serverUrl = 'https://projectfairts-server.onrender.com'
